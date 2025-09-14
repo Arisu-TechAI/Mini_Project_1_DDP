@@ -5,11 +5,34 @@ NIM    :  2509116088 <br>
 Kelas  :  Sistem Informasi (C) 25
 
 <br>
-<b> <h1>Flowchart Aplikasi Forum diskusi komunitas player Visual Novel</h> <br>
+<b> <h2>Flowchart : Aplikasi Forum diskusi komunitas player Visual Novel</h2> </b> <br>
 <img width="1211" height="968" alt="Flowchart Minpro 1_Arizky Saputra_2509116088 drawio" src="https://github.com/user-attachments/assets/73f1a760-1390-44b8-aebf-f84527267ff4" /> <br>
 
-<h2>Penjelasan</h2> <br>
+<h2>Penjelasan</h2>
 <h3>Tampilan awal</h3>
 <img width="908" height="199" alt="Screenshot 2025-09-15 004820" src="https://github.com/user-attachments/assets/efead96a-ccdf-4f6e-bf6a-c963b0449b4c" /> <br>
-Saat program web ini dijalankan, tampilan awal yang akan muncul adalah permintaan untuk memasukkan Username pengguna terlebih dahulu
+Saat program web ini dijalankan, tampilan awal yang akan muncul adalah permintaan untuk memasukkan Username pengguna terlebih dahulu <br>
+
+<br>
+<img width="721" height="246" alt="Screenshot 2025-09-15 005458" src="https://github.com/user-attachments/assets/5edb093c-0c48-4d6d-b875-ffd893de4679" />
+Setelah pengguna memasukkan Username, maka program akan mengarahkan user ke halaman utama aplikasi.
+Pada halaman ini terdiri dari 4 pilihan menu, pilihan tersebut adalah: <br>
+1. Lihat Daftar Semua Topik : Berisi daftar postingan atau diskusi yang telah di unggah oleh pengguna aplikasi <br> <br>
+2. Buat Topik Diskusi : Adalah pilihan menu untuk membuat postingan atau topik pembahasan baru dengan sesama anggota komunitas lainnya <br> <br>
+3. Buka Postingan Diskusi (Lihat & Komentar) : Pilihan untuk melihat isi dari postingan diskusi yang di unggah pengguna <br> <br>
+4. Keluar : Pilihan untuk keluar/mengakhiri program ini <br> <br>
+
+Pengguna dapat memilih salah satu dari 4 menu di atas dengan memasukkan input angka(1-4) sesuai urutan piiihan program diatas. Apabila pengguna menginputkan selain angka 1-4, maka program hanya akan mengeluarkan Output "Pilihan tidak valid". jadi silakan memilih sesuai menu yang tersedia <br>
+
+<h2>Pilihan 1</h2> <br>
+<img width="704" height="222" alt="Screenshot 2025-09-15 011946" src="https://github.com/user-attachments/assets/fae419b3-fb95-4a23-9c15-ce31a48f48b5" /> <br>
+
+Pilihan 1  : menampilkan daftar semua postingan diskusi yang telah dibuat oleh pengguna. Jika tidak ada postingan, maka program hanya akan menampilakn output "Belum ada postingan yang di unggah pengguna" <br>
+
+<h2>Pilihan 2</h2> <br>
+<img width="1566" height="366" alt="Screenshot 2025-09-15 013302" src="https://github.com/user-attachments/assets/19f97746-d2bf-4999-8eca-c70a85bb75b8" /> <br>
+Pilihan 2  : berfungsi untuk membuat postingan diskusi baru dengan orang-orang. Pengguna akan membuat judul, dan isi dari postingan yang akan dibagikan kepada orang-orang. Postingan yang di unggah akan di simpan ke dalam database agar dapat dilihat kembali di aplikasi nantinya. <br>
+Hanya saja perlu diingat, untuk tahap program saat ini masih belum menggunakan penyimpanan permanent. Maksudnya untuk data Postingan, data pengguna, dan komentar hanya akan disimpan di RAM komputer dan akan terhapus setelah program dihentikan. <br>
+
+<h2>Pilihan 3</h2> <br>
 
