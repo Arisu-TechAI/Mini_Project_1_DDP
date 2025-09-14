@@ -14,7 +14,7 @@ Kelas  :  Sistem Informasi (C) 25
 Saat program web ini dijalankan, tampilan awal yang akan muncul adalah permintaan untuk memasukkan Username pengguna terlebih dahulu <br>
 
 <br>
-<img width="721" height="246" alt="Screenshot 2025-09-15 005458" src="https://github.com/user-attachments/assets/5edb093c-0c48-4d6d-b875-ffd893de4679" />
+<img width="721" height="246" alt="Screenshot 2025-09-15 005458" src="https://github.com/user-attachments/assets/5edb093c-0c48-4d6d-b875-ffd893de4679" /> <br>
 Setelah pengguna memasukkan Username, maka program akan mengarahkan user ke halaman utama aplikasi.
 Pada halaman ini terdiri dari 4 pilihan menu, pilihan tersebut adalah: <br>
 1. Lihat Daftar Semua Topik : Berisi daftar postingan atau diskusi yang telah di unggah oleh pengguna aplikasi <br> <br>
@@ -39,8 +39,8 @@ Hanya saja perlu diingat, untuk tahap program saat ini masih belum menggunakan p
 Pilihan 3  : Digunakan untuk melihat, dan memberikan komentar pada postingan yang diunggah oleh pengguna. Pengguna dapat memasukkan input(angka 1-4) sesuai urutan postingan yang ingin di lihat atau dikomentari. <br>
 <b>1. Tambah Komentar</b><br>
 adalah menu untuk menambahkan komentar pada sebuah postingan diskusi. Pengguna menginputkan angka sesuai urutan postingan yang ditampilkan untuk menambahkan komentar pada postingan tersebut<br>
-<b>Pilihan 2 & 3.Edit & Hapus komentar</b> <br>
-2 Menu ini pada awalnya bertujuan untuk mengedit atau menghapus Komentar yang telah diunggah oleh pengguna. Namun kode program ini masih belum bisa saya selesaikan karna kemampuan saya yang masih kurang. <br>
+<b>Pilihan 2 & 3. Edit & Hapus komentar</b> <br>
+Kedua pilihan menu ini pada awalnya bertujuan untuk mengedit atau menghapus Komentar yang telah diunggah oleh pengguna. Namun kode program ini masih belum bisa saya selesaikan karna kemampuan saya yang masih kurang. <br>
 <b>Pilihan 4. Kembali ke menu utama </b> <br>
 Seperti namanya, pilihan menu ini akan membawa kembali tampilan user ke halaman utama program
 <br>
