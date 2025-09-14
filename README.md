@@ -39,9 +39,9 @@ Hanya saja perlu diingat, untuk tahap program saat ini masih belum menggunakan p
 Pilihan 3  : Digunakan untuk melihat, dan memberikan komentar pada postingan yang diunggah oleh pengguna. Pengguna dapat memasukkan input(angka 1-4) sesuai urutan postingan yang ingin di lihat atau dikomentari. <br>
 <b>1. Tambah Komentar</b><br>
 adalah menu untuk menambahkan komentar pada sebuah postingan diskusi. Pengguna menginputkan angka sesuai urutan postingan yang ditampilkan untuk menambahkan komentar pada postingan tersebut<br>
-<b>Pilihan 2 & 3. Edit & Hapus komentar</b> <br>
+<b>2.Pilihan 2 & 3. Edit & Hapus komentar</b> <br>
 Kedua pilihan menu ini pada awalnya bertujuan untuk mengedit atau menghapus Komentar yang telah diunggah oleh pengguna. Namun kode program ini masih belum bisa saya selesaikan karna kemampuan saya yang masih kurang. <br>
-<b>Pilihan 4. Kembali ke menu utama </b> <br>
+<b>4. Kembali ke menu utama </b> <br>
 Seperti namanya, pilihan menu ini akan membawa kembali tampilan user ke halaman utama program
 <br>
 
