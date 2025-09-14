@@ -1,2 +1,5 @@
-# Mini_Project_1_DDP
-Mini Project 1 DDP_Arizky Saputra_2509116088_Sistem Informasi (C) 25
+# Mini_Project_1_DDP_Aplikasi Forum diskusi komunitas player Visual Novel berbasis web
+Mini Project 1 DDP
+Nama   :Arizky Saputra
+NIM    :2509116088
+Kelas  : Sistem Informasi (C) 25
