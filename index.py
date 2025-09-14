@@ -90,15 +90,6 @@ def buka_topik():
     except ValueError:
         print("Input tidak valid.")
 
-
-
-# tes buat tuple data user
-def user():
-    print("Silahkan buat data pengguna kamu")
-    nama = input("Username: ")
-    user_info = (nama)
-
-
 #tampilan halaman menu
 def tampilkan_menu () :
         print("=" *25, "Silahkan Pilih Menu (1-4)", "=" *25)
@@ -124,6 +115,7 @@ while True:
             break
     else: 
             print("Pilihan tidak valid. ")
+
 
 
 
